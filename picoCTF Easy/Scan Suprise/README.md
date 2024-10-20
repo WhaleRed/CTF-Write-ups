@@ -43,4 +43,5 @@ feh flag.png
 This should print out a QR code which you can scan with a scanner.
 After you scan the QR it should show the flag.
 
+Date written: 20 October 2024
 
