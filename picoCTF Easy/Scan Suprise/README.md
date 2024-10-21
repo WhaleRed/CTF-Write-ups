@@ -35,7 +35,7 @@ Let's find a way to take a look at the png file.
 # ```feh```
 The ```feh``` is a light-weight, configurable and versatile image viewer.
 if you want to read more about the feh command you can type ```man feh``` in your terminal.
-
+#
 Now that we have a way to view the png file. We can view it by typing this in the terminal.
 ```
 feh flag.png
@@ -43,7 +43,6 @@ feh flag.png
 This should print out a QR code which you can scan with a scanner.
 After you scan the QR it should show the flag.
 
-
-
+#
 Date written: 20 October 2024
 
